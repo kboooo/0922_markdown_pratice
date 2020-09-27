@@ -31,7 +31,7 @@ preview只是預覽
 [cnn新聞](https://edition.cnn.com/)
 
 找了一個圖片存在電腦，想要顯示圖片
-![my cat](cat.jpg "胖貓")
+![my cat](IMG_20200625_121333.jpg "胖貓")
 ![w3_pic_2](https://cdn.cnn.com/cnnnext/dam/assets/130616121308-edward-snowden-getty-image-medium-tease.jpg "史諾登")
 如何放圖片到github上?
 add file upload 拖曳
